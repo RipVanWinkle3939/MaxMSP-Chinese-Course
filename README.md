@@ -1,5 +1,5 @@
 # MaxMSP-FromIntroductionToPractice
-个人在MaxMSP使用过程中的技术实现示例
+个人在MaxMSP使用过程中的技术实现示例以及教学，文中“Max”与“MaxMSP”语义不作区分。
 
 ## MaxMSP是什么
 
