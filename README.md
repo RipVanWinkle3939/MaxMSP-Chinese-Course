@@ -1,4 +1,4 @@
-# MaxMSP-FromIntroductionToPractice
+# MaxMSP-从入门到实战
 个人在MaxMSP使用过程中的技术实现示例以及教学，文中“Max”与“MaxMSP”语义不作区分。
 
 ## MaxMSP是什么
@@ -19,3 +19,9 @@
 
 
 ## OSC信号的接收、处理与发送
+这里的osc不是振荡器的意思，而是“open sound control”的简称，osc是一种数据传输协议，最开始就是专门为了舞台音乐而诞生，操作门槛低，传输稳定，虽然只能传输简单的信号，但是十分契合音乐操作中各种旋钮、滑轨的数据类型，所以osc被广泛用于现场音乐、数字媒体演出等场合。
+对于Max而言，osc是我们将各类平台、软件与Max进行连接的良好媒介，在我的学习中，曾经尝试过诸如Max-osc-AbletonLive、Max-osc-Arduino/Raspberry Pi这样的数据传输，效果都非常好，可以说，Max是一个强大的osc信号产生处、中转站、处理厂。
+
+###### ——————基础知识——————
+
+在MaxMSP中，
